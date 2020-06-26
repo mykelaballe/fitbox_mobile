@@ -27,7 +27,7 @@ M Lhuillier is a major financial company which offers services and products that
 Solely built the app's front-end for both Android and iOS
 
 ### Screenshots
-<img src="Screenshot_20200626-231902_FitBox](https://user-images.githubusercontent.com/22584900/85882753-6fa18580-b812-11ea-8a9f-301c5a106b88.jpg" width="800"/>
+<img src="https://user-images.githubusercontent.com/22584900/85882753-6fa18580-b812-11ea-8a9f-301c5a106b88.jpg" width="800"/>
 
 ### Notable Features
 * Google Maps
