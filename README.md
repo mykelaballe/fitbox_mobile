@@ -32,7 +32,7 @@ Solely built the app's front-end for both Android and iOS
 
 ### Notable Libraries Used
 * [Stripe API](https://stripe.com/docs/api)
-* [react-native-google-fit(https://github.com/StasDoskalenko/react-native-google-fit)
+* [react-native-google-fit](https://github.com/StasDoskalenko/react-native-google-fit)
 * [rn-apple-healthkit](https://github.com/terrillo/rn-apple-healthkit)
 * [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts)
 * [react-native-storage](https://github.com/sunnylqm/react-native-storage)
