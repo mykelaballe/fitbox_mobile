@@ -7128,7 +7128,7 @@ rimraf@~2.2.6:
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
   integrity sha1-5Dm+Kq7jJzIZUnMPmaiSnk/FBYI=
 
-rn-apple-healthkit@^0.8.0:
+rn-apple-healthkit@0.8.0:
   version "0.8.0"
   resolved "https://registry.yarnpkg.com/rn-apple-healthkit/-/rn-apple-healthkit-0.8.0.tgz#83a23e71fc54d6d929cd6a55d5c590072bab4c64"
   integrity sha512-LymIWk9lwIkcGIACveCxvp2jKXTTrDbdUYgcac+wuaSLPPpLfZqrQ0fz+QACYx5cSwAn6Uj6NcJ5+QkwPjY+5g==
@@ -8004,9 +8004,9 @@ typescript-tuple@^2.2.1:
     typescript-compare "^0.0.2"
 
 ua-parser-js@^0.7.18:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.31"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.31.tgz#649a656b191dffab4f21d5e053e27ca17cbff5c6"
+  integrity sha512-qLK/Xe9E2uzmYI3qLeOmI0tEOt+TBBQyUIAh4aAgU05FVYzeZrKUdkAZfBNVGRaHVgV0TDkdEngJSw/SyQchkQ==
 
 uglify-es@^3.1.9:
   version "3.3.9"
